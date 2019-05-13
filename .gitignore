@@ -10,6 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Ignoring intellij Directory
+.idea/
+
+# iml file is not necessary
+*.iml
+
 # Package Files #
 *.jar
 *.war
